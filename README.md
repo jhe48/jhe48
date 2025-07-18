@@ -1,8 +1,6 @@
 <!-- Typing SVG Banner -->
 <p align="center">
-  <a href="https://github.com/jhe48">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Jhe!;Machine+Learning+Enthusiast;Software+Engineer+%7C+IT+Explorer;AI+%26+Computer+Vision+Learner;Gym+Rat+%7C+Traveler+%7C+Pok%C3%A9mon+Fan" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Jhe!;Machine+Learning+Enthusiast;Software+Engineer+%7C+IT+Explorer;AI+%26+Computer+Vision+Learner;Gym+Rat+%7C+Traveler+%7C+Pok%C3%A9mon+Fan" alt="Typing SVG">
 </p>
 
 ---
@@ -54,9 +52,9 @@ Slack | Zoom | GitHub | Google Workspace
 ## 🎨 Pokémon Touch  
 
 <p align="center">
-  <img src="https://play.pokemonshowdown.com/sprites/gen4platinum/tyranitar.png" alt="Tyranitar Platinum Sprite" />
-  <img src="https://play.pokemonshowdown.com/sprites/gen4platinum/dragonite.png" alt="Dragonite Platinum Sprite" />
-  <img src="https://play.pokemonshowdown.com/sprites/gen4platinum/porygon2.png" alt="Porygon2 Platinum Sprite" />
+  <img width="283" height="300" alt="image" src="https://github.com/user-attachments/assets/2ea0ff8e-b8fe-40bb-9741-e66cd6869165" />
+  <img width="283" height="300" alt="image" src="https://github.com/user-attachments/assets/e009a353-e88c-4946-9b52-e454167a4146" />
+  <img width="283" height="300" alt="image" src="https://github.com/user-attachments/assets/d07b6395-bfea-4c45-8eaf-b37fa4c873da" />
 </p>
 
 ---
