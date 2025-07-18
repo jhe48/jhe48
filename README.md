@@ -51,9 +51,9 @@ Slack | Zoom | GitHub | Google Workspace
 ## 🎨 My Pokémon Hall of Fame  
 
 <p align="center">
-  <img width="223" height="240" alt="image" src="https://github.com/user-attachments/assets/2ea0ff8e-b8fe-40bb-9741-e66cd6869165" />
-  <img width="263" height="280" alt="image" src="https://github.com/user-attachments/assets/e009a353-e88c-4946-9b52-e454167a4146" />
-  <img width="198" height="210" alt="image" src="https://github.com/user-attachments/assets/02be6805-91fa-44e6-8bb2-b0446ae05cb5" />
+  <img width="173" height="190" alt="image" src="https://github.com/user-attachments/assets/2ea0ff8e-b8fe-40bb-9741-e66cd6869165" />
+  <img width="213" height="230" alt="image" src="https://github.com/user-attachments/assets/e009a353-e88c-4946-9b52-e454167a4146" />
+  <img width="148" height="160" alt="image" src="https://github.com/user-attachments/assets/02be6805-91fa-44e6-8bb2-b0446ae05cb5" />
 </p>
 
 ---
