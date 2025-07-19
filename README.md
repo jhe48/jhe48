@@ -66,9 +66,13 @@ Slack | Zoom | GitHub | Google Workspace
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jhe48&color=blue&style=flat-square&label=Visitors" alt="Visitors" />
-</p>
+## 📊 Visitors
+<div align="center">
+
+![visitors](https://komarev.com/ghpvc/?username=jhe48-profile&label=Profile%20Views&color=blue&style=flat)
+
+</div>
+
 
 ---
 
@@ -81,6 +85,8 @@ Slack | Zoom | GitHub | Google Workspace
   <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/72a367bd-909d-4f5f-9bb1-e3fbf37bebb7" />
   <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/6299a687-8371-4abc-9089-bf08b97af128" />
   <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/cff6e67d-bba2-4854-82ac-e80f2fdd964a" />
+  <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/6613609b-e665-4433-8a77-ecc0c1665b9b" />
+  <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/dfdfcdc8-6377-465a-bdea-0d2449d82264" />
   <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/094a096d-e98f-4b00-8a57-79d2a865b657" />
   <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/d124ec1d-fec0-4740-9ab1-b4ff6fe8435c" />
   <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/a70e0ae6-a95c-435d-b3a1-9b664e003936" />
