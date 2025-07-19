@@ -20,7 +20,7 @@
 ## 🧰 Tech Stack  
 
 **💻 Technical Skills:**  
-| `Python` | `TensorFlow` | `NumPy` | `scikit-learn` | `JavaScript` | `React` | `C` | `C++` | `C#` | `Java` | `Scala` | `SQL` | `HTML` | `CSS` | `PHP` | `Unity`  
+`Python` | `TensorFlow` | `NumPy` | `scikit-learn` | `JavaScript` | `React` | `C` | `C++` | `C#` | `Java` | `Scala` | `SQL` | `HTML` | `CSS` | `PHP` | `Unity`  
 `GDB` | `Emacs` | `Linux` | `Agile` | `Trello` | `Asana` | `XAMPP` | `Assembly` | `Pascal`  
 
 **🤝 Soft Skills:**  
