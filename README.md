@@ -1,6 +1,6 @@
 <!-- Typing SVG Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Jacky!;Machine+Learning+Enthusiast;Software+Engineer+%7C+IT+Explorer;AI+%26+Computer+Vision+Learner;Gym+Rat+%7C+Traveler+%7C+Pok%C3%A9mon+Fan" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Jacky!;Machine+Learning+Enthusiast;Software+Engineer+%7C+IT+Explorer;AI+%26+Computer+Vision+Learner;Gym+Rat+%7C+Traveler" alt="Typing SVG">
 </p>
 
 ---
@@ -20,11 +20,11 @@
 ## 🧰 Tech Stack  
 
 **💻 Technical Skills:**  
-`TensorFlow` | `NumPy` | `scikit-learn` | `React` | `C` | `C++` | `C#` | `Java` | `JavaScript` | `Python` | `Scala` | `SQL` | `HTML` | `CSS` | `PHP` | `Unity`  
+| `Python` | `TensorFlow` | `NumPy` | `scikit-learn` | `JavaScript` | `React` | `C` | `C++` | `C#` | `Java` | `Scala` | `SQL` | `HTML` | `CSS` | `PHP` | `Unity`  
 `GDB` | `Emacs` | `Linux` | `Agile` | `Trello` | `Asana` | `XAMPP` | `Assembly` | `Pascal`  
 
 **🤝 Soft Skills:**  
-Customer Service | Problem Solving | Multilingual Communication 🌐 | Team Collaboration | Empathy  
+Customer Service | Problem Solving | Multilingual Communication | Team Collaboration | Empathy  
 
 **🛠 Tools & Platforms:**  
 Slack | Zoom | GitHub | Google Workspace  
