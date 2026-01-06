@@ -1,70 +1,55 @@
 <!-- Typing SVG Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Jacky!;Machine+Learning+Enthusiast;Software+Engineer+%7C+IT+Explorer;AI+%26+Computer+Vision+Learner;Gym+Rat+%7C+Traveler" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Jacky+He;Software+Engineer;Full-Stack+Developer;Machine+Learning+Explorer" alt="Typing SVG">
 </p>
 
 ---
 
-<h1 align="center">💻 Machine Learning Enthusiast | Software Engineer | IT & Hardware Explorer 🔧</h1>
-
----
-## 🌟 About Me  
-
-- 🔭 **Currently exploring:** Machine Learning & AI, especially **Computer Vision** and **Pattern Recognition**  
-- 🧠 Diving deep into **AI architectures** & understanding **models from research papers**  
-- 🛠 Exploring **software engineering practices**, using **Scrum Boards** to manage projects  
-- 🏋️‍♂️ **Outside tech:** I love swimming, working out, and playing any sport I can get my hands on 🏀⚽🏐🏓🎾  
+<h3 align="center">🎓 Recent CS Graduate | Full-Stack Developer | ML Enthusiast</h3>
 
 ---
 
-## 🧰 Tech Stack  
+## 👋 About Me
 
-**💻 Technical Skills:**  
-`Python` | `TensorFlow` | `NumPy` | `scikit-learn` | `JavaScript` | `React` | `C` | `C++` | `C#` | `Java` | `Scala` | `SQL` | `HTML` | `CSS` | `PHP` | `Unity`  
-`GDB` | `Emacs` | `Linux` | `Agile` | `Trello` | `Asana` | `XAMPP` | `Assembly` | `Pascal`  
+I'm a recent Computer Science graduate from the University at Buffalo with a passion for building practical applications and exploring machine learning. I enjoy solving real-world problems through code and am always eager to learn new technologies.
 
-**🤝 Soft Skills:**  
-Customer Service | Problem Solving | Multilingual Communication | Team Collaboration | Empathy  
+**What I'm focused on:**
+- 💻 Building full-stack web applications
+- 🤖 Exploring machine learning and computer vision
+- 🛠 Writing clean, maintainable code
+- 📚 Learning from production codebases and research papers
 
-**🛠 Tools & Platforms:**  
-Slack | Zoom | GitHub | Google Workspace  
-
----
-
-## 🧠 What I’m Learning  
-
-- 🤖 **AI architectures** and the theory behind different neural network models  
-- 🔍 Research papers to understand **state-of-the-art ML models**  
-- 🗂 Agile development with **Scrum Boards**  
+**Outside of coding:**
+- 🏋️ Regular at the gym & enjoy sports
+- 🎮 Gamer
+- 🍜 Always looking for good food
+- ✈️ Enjoy traveling when I can
 
 ---
 
-## 🎮 Fun Facts & Hobbies  
+## 🛠 Technical Skills
 
-- 🕹 **Video Game Fan** – especially **Pokémon!** ✨  
-- 🍣 **Foodie** – love discovering delicious & aesthetic food  
-- 🎥 Enjoy watching **movies with friends**  
-- 🌍 **Traveler** & outdoors enthusiast  
+**Languages:**  
+`Python` | `JavaScript` | `TypeScript` | `PHP` | `Java` | `C` | `C++` | `C#` | `Go` | `Rust` | `Ruby` | `Scala` | `SQL` | `HTML/CSS`
 
----
+**Frameworks & Libraries:**  
+`React` | `Node.js` | `Express` | `Flask` | `Spring Boot` | `TensorFlow` | `PyTorch` | `NumPy` | `Pandas` | `scikit-learn`
 
-## 📫 Connect with Me  
+**Databases:**  
+`MySQL` | `PostgreSQL` | `MongoDB`
 
-- 📧 **Email:** [jhe48@buffalo.edu](mailto:jhe48@buffalo.edu)  
+**Tools & Technologies:**  
+`Git/GitHub` | `Linux` | `REST APIs` | `Docker` | `CI/CD` | `Agile/Scrum`
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhe48&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhe48&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+**Cloud Platforms:**  
+`AWS` | `Azure` | `Google Cloud Platform`
 
 ---
+
+## 📫 Let's Connect
+
+- 📧 Email: [jackyhe0402@gmail.com](mailto:jackyhe0402@gmail.com)
+- 💼 LinkedIn: [Jacky He](https://www.linkedin.com/in/jacky-hecs)
 
 ## 📊 Visitors
 <div align="center">
@@ -73,5 +58,10 @@ Slack | Zoom | GitHub | Google Workspace
 
 </div>
 
+---
+
+<p align="center">
+  <i>Open to entry-level software engineering opportunities</i>
+</p>
 
 ---
