@@ -29,7 +29,7 @@ I'm a recent Computer Science graduate from the University at Buffalo with a pas
 
 ## 🌐 Open Source Contributions
 
-- **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)**: Patched a critical OAuth authentication bug affecting WSL/headless environments by resolving terminal buffer truncation issues.
+- **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)**: Patched an OAuth authentication bug affecting WSL/headless environments by resolving terminal buffer truncation issues.
 
 ---
 
