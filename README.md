@@ -27,10 +27,21 @@ I'm a recent Computer Science graduate from the University at Buffalo with a pas
 
 ---
 
+## 🌐 Open Source Contributions
+
+- **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)**: Patched a critical OAuth authentication bug affecting WSL/headless environments by resolving terminal buffer truncation issues.
+
+---
+
 ## 🛠 Technical Skills
 
-**Languages:**  
-`Python` | `JavaScript` | `TypeScript` | `PHP` | `Java` | `C` | `C++` | `C#` | `Go` | `Rust` | `Ruby` | `Scala` | `SQL` | `HTML/CSS`
+**Languages:**
+
+**Proficient:**
+`Python` | `TypeScript` | `JavaScript` | `PHP` | `HTML/CSS` | `SQL` | `C#` | `C++` | `Go` | `Rust`
+
+**Familiar:**
+`Java` | `C` | `Ruby` | `Scala`
 
 **Frameworks & Libraries:**  
 `React` | `Node.js` | `Express` | `Flask` | `Spring Boot` | `TensorFlow` | `PyTorch` | `NumPy` | `Pandas` | `scikit-learn`
@@ -57,11 +68,5 @@ I'm a recent Computer Science graduate from the University at Buffalo with a pas
 ![visitors](https://komarev.com/ghpvc/?username=jhe48-profile&label=Profile%20Views&color=blue&style=flat)
 
 </div>
-
----
-
-<p align="center">
-  <i>Open to entry-level software engineering opportunities</i>
-</p>
 
 ---
