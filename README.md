@@ -22,7 +22,7 @@ I'm a recent Computer Science graduate from the University at Buffalo with a pas
 **Outside of coding:**
 - 🏋️ Regular at the gym & enjoy sports
 - 🎮 Gamer
-- 🍜 Always looking for good food
+- 🍜 Always looking for good grub
 - ✈️ Enjoy traveling when I can
 
 ---
@@ -59,7 +59,7 @@ I'm a recent Computer Science graduate from the University at Buffalo with a pas
 ## 📊 Visitors
 <div align="center">
 
-![visitors](https://komarev.com/ghpvc/?username=jhe48-profile&label=Profile%20Views&color=blue&style=flat)
+![visitors](https://komarev.com/ghpvc/?username=jhe48-profile&label=Profile%20Views&color=
 
 </div>
 
