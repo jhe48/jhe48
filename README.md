@@ -59,7 +59,7 @@ I'm a recent Computer Science graduate from the University at Buffalo with a pas
 ## 📊 Visitors
 <div align="center">
 
-![visitors](https://komarev.com/ghpvc/?username=jhe48-profile&label=Profile%20Views&color=
+![visitors](https://komarev.com/ghpvc/?username=jhe48-profile&label=Profile%20Views&color=blue&style=flat)
 
 </div>
 
