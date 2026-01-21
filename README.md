@@ -19,12 +19,6 @@ I'm a recent Computer Science graduate from the University at Buffalo with a pas
 - 🛠 Writing clean, maintainable code
 - 📚 Learning from production codebases and research papers
 
-**Outside of coding:**
-- 🏋️ Regular at the gym & enjoy sports
-- 🎮 Gamer
-- 🍜 Always looking for good grub
-- ✈️ Enjoy traveling when I can
-
 ---
 
 ## 🛠 Technical Skills
@@ -55,6 +49,7 @@ I'm a recent Computer Science graduate from the University at Buffalo with a pas
 
 - 📧 Email: [jackyhe0402@gmail.com](mailto:jackyhe0402@gmail.com)
 - 💼 LinkedIn: [Jacky He](https://www.linkedin.com/in/jacky-hecs)
+- 🐦 Twitter/X: [@jackyhecs](https://x.com/jackyhecs)
 
 ## 📊 Visitors
 <div align="center">
