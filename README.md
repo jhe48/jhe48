@@ -26,7 +26,7 @@ I'm a recent Computer Science graduate from the University at Buffalo with a pas
 **Languages:**
 
 **Proficient:**
-`Python` | `TypeScript` | `JavaScript` | `PHP` | `HTML/CSS` | `SQL` | `C#` | `C++` | `Go` | `Rust`
+`Python` | `TypeScript` | `JavaScript` | `PHP` | `HTML/CSS` | `SQL` | `Go` | `Rust` | `C#` | `C++` | 
 
 **Familiar:**
 `Java` | `C` | `Ruby` | `Scala`
