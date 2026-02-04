@@ -32,16 +32,16 @@ I'm a recent Computer Science graduate from the University at Buffalo with a pas
 `Java` | `C` | `Ruby` | `Scala`
 
 **Frameworks & Libraries:**  
-`React` | `Node.js` | `Express` | `Flask` | `Spring Boot` | `TensorFlow` | `PyTorch` | `NumPy` | `Pandas` | `scikit-learn`
+`Next.js` | `FastAPI` | `React` | `Node.js` | `Express` | `Flask` | `Spring Boot` | `TensorFlow` | `PyTorch` | `NumPy` | `Pandas` | `scikit-learn`
 
 **Databases:**  
-`MySQL` | `PostgreSQL` | `MongoDB`
+`PostgreSQL` | `MySQL` | `MongoDB`
 
 **Tools & Technologies:**  
 `Git/GitHub` | `Linux` | `REST APIs` | `Docker` | `CI/CD` | `Agile/Scrum`
 
 **Cloud Platforms:**  
-`AWS` | `Azure` | `Google Cloud Platform`
+`Render` | `AWS` | `Azure` | `Google Cloud Platform`
 
 ---
 
