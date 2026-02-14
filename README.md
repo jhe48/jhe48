@@ -38,7 +38,7 @@ I'm a recent Computer Science graduate from the University at Buffalo with a pas
 `PostgreSQL` | `MySQL` | `MongoDB`
 
 **Tools & Technologies:**  
-`Git/GitHub` | `Linux` | `REST APIs` | `Docker` | `CI/CD` | `Agile/Scrum`
+`Git` | `Linux` | `REST APIs` | `Docker` | `CI/CD` | `Agile/Scrum`
 
 **Cloud Platforms:**  
 `Render` | `AWS` | `Azure` | `Google Cloud Platform`
