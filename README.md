@@ -5,7 +5,7 @@
 
 ---
 
-<h3 align="center">🎓 Recent CS Graduate | Full-Stack Developer | ML Enthusiast</h3>
+<h3 align="center"> Full-Stack Developer | ML Enthusiast</h3>
 
 ---
 
