@@ -47,7 +47,6 @@ I'm a recent Computer Science graduate from the University at Buffalo with a pas
 
 ## 📫 Let's Connect
 
-- 📧 Email: [jackyhe0402@gmail.com](mailto:jackyhe0402@gmail.com)
 - 💼 LinkedIn: [Jacky He](https://www.linkedin.com/in/jacky-hecs)
 - 🐦 Twitter/X: [@jackyhecs](https://x.com/jackyhecs)
 
