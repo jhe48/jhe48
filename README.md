@@ -11,7 +11,7 @@
 
 ## 👋 About Me
 
-I'm a recent Computer Science graduate from the University at Buffalo with a passion for building practical applications and exploring machine learning. I enjoy solving real-world problems through code and am always eager to learn new technologies.
+I'm a Computer Science graduate from the University at Buffalo with a passion for building practical applications and exploring machine learning. I enjoy solving real-world problems through code and am always eager to learn new technologies.
 
 **What I'm focused on:**
 - 💻 Building full-stack web applications
